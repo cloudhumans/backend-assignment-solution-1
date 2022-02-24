@@ -1,6 +1,6 @@
 # CloudHumans Assignment
 
-### Useful Commands
+### Setup
 
 - Running the application (from the project root)
 ```sh
@@ -15,3 +15,8 @@ Access it on http://localhost:8080 (you will see swagger's home page)
 ```sh
 docker build --target build-env -t cloudhumans-assignment .
 ```
+
+### Application Requirements
+
+* [Original Version](original-requirements.md)
+* [New Features and Bugfixes](new-requirements.md)
